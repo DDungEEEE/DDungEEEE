@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDungEEEE&custom_title=wonikson's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Wonik's Github Activity Graph" ">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDungEEEE&custom_title=wonikson%27s%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true%22%20alt=%22Wonik%27s%20Github%20Activity%20Graph">
 </div>
 
 
