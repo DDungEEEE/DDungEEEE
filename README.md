@@ -22,12 +22,12 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDungEEEE&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    
-공부중인 책
-|제목|이미지|
+
+## Study
+|Nane|Image|
 |:---|:---:|
 |스프링 부트 3 백엔드 개발자 되기 자바 ver|![image](https://github.com/DDungEEEE/DDungEEEE/assets/102235796/cb0968da-b188-4fbd-af13-3e25b895820b)|
-|자바의 신 VOL2 |R|
+|자바의 신 VOL2 |![자바의 신 VOL2](https://github.com/DDungEEEE/DDungEEEE/assets/102235796/24fa99b1-70d8-4d3b-93f7-3dc76e0b1712)|
 <!--
 **DdungEEEE/DdungEEEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
