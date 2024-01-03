@@ -4,6 +4,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDungEEEE&custom_title=wonikson%27s%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true%22%20alt=%22Wonik%27s%20Github%20Activity%20Graph">
 </div>
 
+공부중인 책
+![image](https://github.com/DDungEEEE/DDungEEEE/assets/102235796/cb0968da-b188-4fbd-af13-3e25b895820b)
 
 <!--
 **DdungEEEE/DdungEEEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
