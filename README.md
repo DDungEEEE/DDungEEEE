@@ -24,8 +24,10 @@
     </div>
     
 공부중인 책
-![image](https://github.com/DDungEEEE/DDungEEEE/assets/102235796/cb0968da-b188-4fbd-af13-3e25b895820b)
-
+|제목|이미지|
+|:---|:---:|
+|스프링 부트 3 백엔드 개발자 되기 자바 ver|![image](https://github.com/DDungEEEE/DDungEEEE/assets/102235796/cb0968da-b188-4fbd-af13-3e25b895820b)|
+|자바의 신 VOL2 |R|
 <!--
 **DdungEEEE/DdungEEEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
