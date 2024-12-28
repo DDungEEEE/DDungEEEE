@@ -23,10 +23,6 @@
            /> </div> 
     </div>
     
-## Project
-|Period|Name|Description|
-|:---:|:---|:----------------|
-|2024.01.27~|SPmarket|SpringBoot와 Flutter로 구성하는 무신사 cloneCoding|
 <!--
 **DdungEEEE/DdungEEEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
